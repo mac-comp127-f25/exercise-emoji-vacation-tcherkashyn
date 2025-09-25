@@ -1,0 +1,5 @@
+# Copy this file to gradle.properties and set org.gradle.java.home to your JDK 21 installation path if you want Gradle to always use a specific JDK.
+
+#org.gradle.java.home=C:/Program Files/Eclipse Adoptium/jdk-21
+
+autoDownload=false
